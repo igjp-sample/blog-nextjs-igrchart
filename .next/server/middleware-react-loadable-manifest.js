@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"..\\\\hooks\\\\useDataChart.tsx -> igniteui-react-charts\":{\"id\":\"..\\\\hooks\\\\useDataChart.tsx -> igniteui-react-charts\",\"files\":[\"static/chunks/node_modules_igniteui-react-charts_esm5_igniteui-react-charts_js.js\"]}}"
